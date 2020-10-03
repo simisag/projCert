@@ -11,7 +11,7 @@ function config($key = '')
         'name' => 'Simple PHP Website',
         'nav_menu' => [
             '' => 'Home',
-            'content/About-us.php' => 'About Us',
+            'content/ABout-us.php' => 'About Us',
             'content/products.php' => 'Products',
             'content/contact.php' => 'Contact',
         ],
